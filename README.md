@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-jangid-here&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-jangid-here" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 **Python, SQL, PySpark**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
